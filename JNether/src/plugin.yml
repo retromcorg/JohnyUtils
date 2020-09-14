@@ -1,0 +1,7 @@
+name: JNether
+author: JohnyMuffin
+version: 1.0.0
+main: com.johnymuffin.nether.beta.JNether
+permissions:
+  johnyutils.nether.bypass:
+    description: Allows players to go onto the nether roof
