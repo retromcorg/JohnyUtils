@@ -1,4 +1,5 @@
 name: JVoid
 author: JohnyMuffin
 version: 1.0.1
+visible: false
 main: com.johnymuffin.jvoid.beta.JVoid

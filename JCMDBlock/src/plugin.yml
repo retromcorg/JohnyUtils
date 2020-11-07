@@ -1,0 +1,5 @@
+name: JCMDBlock
+main: com.johnymuffin.jcmd.beta.JCMDBlock
+version: 1.0.0
+author: RhysB
+visible: false

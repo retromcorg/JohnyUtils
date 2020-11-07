@@ -1,0 +1,5 @@
+name: JLeaveAndJoin
+main: com.johnymuffin.leaveandjoin.JLeaveAndJoin
+version: 1.0.0
+author: RhysB
+visible: false
