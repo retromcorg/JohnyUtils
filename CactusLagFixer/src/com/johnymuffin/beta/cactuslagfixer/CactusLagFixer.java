@@ -5,7 +5,6 @@ import org.bukkit.Material;
 import org.bukkit.World;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Item;
-import org.bukkit.event.Event;
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -43,10 +42,6 @@ public class CactusLagFixer extends JavaPlugin {
                     }
                 }
                 ;
-            }
-            //End of count removed items
-            if (count > 0) {
-                log.info("Removed " + count + " cactus from the ground");
             }
         }, 0L), 0L, 20 * 60 * 2);
 
